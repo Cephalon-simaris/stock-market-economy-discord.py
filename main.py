@@ -53,4 +53,4 @@ async def leave_error(error,ctx):
     if isinstance(error, commands.MissingPermissions):
         await ctx.send("**:x: You do not have permission to run this command**")
 
-bot.run("ODQyNzI0OTMxNDc2OTE0MTk3.YJ5ewA.2IYZBCDkX3PpU83BTcOlIA0pGk4")
+bot.run("bot token here")
