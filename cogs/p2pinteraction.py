@@ -22,16 +22,6 @@ caught_message = [
     "You realized you were robbing Muzan Kibutsuji! He spared your life for **500$**!"
 ]
 
-beg_message = [
-    
-]
-
-special_beg_message = [
-    "**Mr.Beast** donated in your livestream : ",
-    "**Bill Gates** has donated you : ",
-    "**Mr.Stark** gave you his wallet : "
-]
-
 class p2pmanager(commands.Cog):
 
     def __init__(self,client):
