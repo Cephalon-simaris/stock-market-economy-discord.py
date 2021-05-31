@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/ChocolateEye/stock-market-economy-discord.py)](https://github.com/ChocolateEye/stock-market-economy-discord.py/blob/main/LICENSE)
 
 A multi-guild discord economy bot which works based on stock-market , easy to setup and runs perfectly!
+
 **Note :** Under construction! Stay tuned for next commits/updates!
 
 ## Features
